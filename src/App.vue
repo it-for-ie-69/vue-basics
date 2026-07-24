@@ -28,4 +28,4 @@ function handleClick() {
   </ul>
 </template>
 
-<style></style>
+<style scoped></style>
